@@ -66,7 +66,7 @@ A window will open showing your webcam feed with the pose skeleton and live join
 .
 ├── pose_angle_tracker_tasks.py   # main script
 ├── requirements.txt
-├── pose_landmarker.task          # model file (downloaded, not tracked in git)
+├── pose_landmarker.task          # model file
 └── README.md
 ```
 
